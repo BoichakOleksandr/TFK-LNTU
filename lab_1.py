@@ -1,6 +1,7 @@
 # Лабораторна робота №1
 
 print("\nПерша програма: \n")
+
 print("Hello, World!")
 
 #Змінні та їх типи:
@@ -16,6 +17,7 @@ student = {
 }
 
 print("\nВиведенння значень зміних та їх тип: \n")
+
 print("number =", number, "тип:", type(number))
 print("real_number =", real_number, "тип:", type(real_number))
 print("name =", name, "тип:", type(name))
@@ -26,6 +28,7 @@ print("student =", student, "тип:", type(student))
 
 
 print("\nОператори: \n")
+
 a = 10
 b = 3
 
